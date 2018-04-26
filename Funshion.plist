@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>tv.fun.iphoneplayerplus</string>
 				<key>bundle-version</key>
-				<string>1.0.69</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>风行视频+</string>
+				<string>现拍</string>
 			</dict>
 		</dict>
 	</array>
